@@ -1,0 +1,15 @@
+c:\users\student\documents\visual studio 2017\Projects\LibraryFormGenerator\bin\Debug\LibraryFormGenerator.dll
+c:\users\student\documents\visual studio 2017\Projects\LibraryFormGenerator\bin\Debug\LibraryFormGenerator.pdb
+c:\users\student\documents\visual studio 2017\Projects\LibraryFormGenerator\obj\Debug\LibraryFormGenerator.dll
+c:\users\student\documents\visual studio 2017\Projects\LibraryFormGenerator\obj\Debug\LibraryFormGenerator.pdb
+C:\Users\user\Desktop\Projects\LibraryFormGenerator\bin\Debug\LibraryFormGenerator.dll
+C:\Users\user\Desktop\Projects\LibraryFormGenerator\bin\Debug\LibraryFormGenerator.pdb
+C:\Users\user\Desktop\Projects\LibraryFormGenerator\obj\Debug\LibraryFormGenerator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\LibraryFormGenerator\obj\Debug\LibraryFormGenerator.dll
+C:\Users\user\Desktop\Projects\LibraryFormGenerator\obj\Debug\LibraryFormGenerator.pdb
+C:\Users\user\Desktop\Projects\Projects\LibraryFormGenerator\bin\Debug\LibraryFormGenerator.dll
+C:\Users\user\Desktop\Projects\Projects\LibraryFormGenerator\bin\Debug\LibraryFormGenerator.pdb
+C:\Users\user\Desktop\Projects\Projects\LibraryFormGenerator\obj\Debug\LibraryFormGenerator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Projects\LibraryFormGenerator\obj\Debug\LibraryFormGenerator.dll
+C:\Users\user\Desktop\Projects\Projects\LibraryFormGenerator\obj\Debug\LibraryFormGenerator.pdb
+C:\Users\user\Desktop\Projects\Projects\LibraryFormGenerator\obj\Debug\LibraryFormGenerator.csprojResolveAssemblyReference.cache
